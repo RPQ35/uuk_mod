@@ -4,10 +4,12 @@ Saat hasil di tampilkan akan langsung menjalankan tugas/soal yang sesuai dengan 
 
 input “masukan jumlah murid” berfunsi sebagai angka maksimal dari perulangan yang dilakukan (jumlah murid yang akan di data)
 
+![Screenshot 2024-07-23 205718](https://github.com/user-attachments/assets/5e1de786-d7f6-486e-b142-8ae10f5edf58)
 
 
 
 
+![Screenshot 2024-07-23 205745](https://github.com/user-attachments/assets/a9e857d8-2f6e-4013-9602-d29dd8b321ab)
 
 
 Disini soal yang dijalankan adalah soal 3c dan dengan input jumlah murid 3;
